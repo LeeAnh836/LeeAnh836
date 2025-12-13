@@ -1,16 +1,16 @@
-## Hi there 👋
+# Xin chào 👋 Mình là Lê Vũ Ngọc Anh
 
-<!--
-**LeeAnh836/LeeAnh836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎓 Mình học tại Trường Đại học Khoa học Tự Nhiên - ĐHQGHN (HUS)
+- 📘 Facebook me: [Facebook]([https://facebook.com/yourlink](https://www.facebook.com/lee.anh.820953))
+- 📧 Email: leeanh836@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeAnh836&show_icons=true)
+
+
+### Tech Stack
+- Python
+- FastAPI
+- React
+- PostgreSQL
