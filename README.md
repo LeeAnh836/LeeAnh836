@@ -12,7 +12,7 @@
 - 🎓 Đang theo học tại **Trường ĐH Khoa học Tự Nhiên – ĐHQG Hà Nội (HUS)**
 - 🔭 Quan tâm đến **Khoa học Dữ liệu, Machine Learning và AI ứng dụng**
 - 🌱 Đang học thêm về **Deep Learning, NLP và Big Data**
-- 💼 Từng thực tập tại **JVB** với dự án phân tích dữ liệu
+- 💼 Từng thực tập tại **JVB** với dự án web + ai-agent
 - 📫 Liên hệ: **leeanh836@gmail.com**
 
 ---
@@ -42,7 +42,7 @@
 | [🌐 ai-translator](https://github.com/LeeAnh836/ai-translator) | Ứng dụng dịch thuật sử dụng AI / NLP | Jupyter Notebook |
 | [⚡ spark-data-processing](https://github.com/LeeAnh836/spark-data-processing) | Xử lý dữ liệu lớn với Apache Spark | Jupyter Notebook |
 | [🌤️ recomment_weather_app](https://github.com/LeeAnh836/recomment_weather_app) | Ứng dụng gợi ý dựa trên thời tiết | Python |
-| [🔮 web-geomancy](https://github.com/LeeAnh836/web-geomancy) | Trang web phong thủy / địa lý | JavaScript |
+
 
 ---
 
